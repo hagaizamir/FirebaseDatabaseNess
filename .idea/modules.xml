@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FireShopping.iml" filepath="$PROJECT_DIR$/FireShopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseDatabase.iml" filepath="$PROJECT_DIR$/FirebaseDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseDatabaseNess.iml" filepath="$PROJECT_DIR$/FirebaseDatabaseNess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

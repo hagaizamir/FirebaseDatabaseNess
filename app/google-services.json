@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217326282424",
+    "firebase_url": "https://fir-database-c115c.firebaseio.com",
+    "project_id": "fir-database-c115c",
+    "storage_bucket": "fir-database-c115c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217326282424:android:0e4cb04b8f2b5501",
+        "android_client_info": {
+          "package_name": "hagai.edu.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217326282424-ugjov95l60jmmipsh8qci9mskikhe85d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hagai.edu.firebasedatabase",
+            "certificate_hash": "98bee2c4652c04d77a0905c88999ce9cce93d37c"
+          }
+        },
+        {
+          "client_id": "217326282424-dktqldl8dsv2gjdhef89tid3lil2auh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-_Q0IhEUkIC5S6U6pKP63FPhR-MeDMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217326282424-dktqldl8dsv2gjdhef89tid3lil2auh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
